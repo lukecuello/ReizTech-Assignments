@@ -1,0 +1,15 @@
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.exe
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.deps.json
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.runtimeconfig.json
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\bin\Debug\net6.0\ClockAngle.pdb
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.csproj.AssemblyReference.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.AssemblyInfoInputs.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.AssemblyInfo.cs
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.csproj.CoreCompileInputs.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\refint\ClockAngle.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.pdb
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ClockAngle.genruntimeconfig.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\ClockAngle\ClockAngle\obj\Debug\net6.0\ref\ClockAngle.dll
