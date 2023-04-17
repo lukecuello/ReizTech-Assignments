@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ClockAngle;
+﻿namespace ClockAngle;
 class Program
 {
     static void Main(string[] args)

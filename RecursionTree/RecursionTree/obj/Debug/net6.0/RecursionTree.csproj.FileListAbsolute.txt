@@ -1,0 +1,15 @@
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\bin\Debug\net6.0\RecursionTree.exe
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\bin\Debug\net6.0\RecursionTree.deps.json
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\bin\Debug\net6.0\RecursionTree.runtimeconfig.json
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\bin\Debug\net6.0\RecursionTree.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\bin\Debug\net6.0\RecursionTree.pdb
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.csproj.AssemblyReference.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.AssemblyInfoInputs.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.AssemblyInfo.cs
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.csproj.CoreCompileInputs.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\refint\RecursionTree.dll
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.pdb
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\RecursionTree.genruntimeconfig.cache
+D:\School\4thSY2ndTerm\ReizTech\ReizTechAssignments\RecursionTree\RecursionTree\obj\Debug\net6.0\ref\RecursionTree.dll
