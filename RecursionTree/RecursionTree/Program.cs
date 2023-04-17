@@ -6,3 +6,8 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
+
+class Branch
+{
+    List<Branch> branches;
+}
